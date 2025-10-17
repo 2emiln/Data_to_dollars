@@ -1,0 +1,11 @@
+pandas
+numpy
+scikit-learn
+seaborn
+tqdm
+xgboost
+jupyter
+notebook
+jupyterlab
+ipykernel
+joblib
