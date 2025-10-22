@@ -10,3 +10,5 @@ jupyterlab
 ipykernel
 joblib
 tensorflow
+pyarrow
+polars
